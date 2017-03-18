@@ -1,0 +1,21 @@
+{
+    "name": "ahmedsoliman64/yii2-seo",
+    "description": "A library to manage pages and SEO on Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","seo"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "Ahmed Soliman",
+            "email": "ahmedsoliman64@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "asoliman\\yii2\\seo\\": ""
+        }
+    }
+}
