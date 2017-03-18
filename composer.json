@@ -3,7 +3,7 @@
     "description": "A library to manage pages and SEO on Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","seo"],
-    "license": "BSD-4-Clause",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Ahmed Soliman",
